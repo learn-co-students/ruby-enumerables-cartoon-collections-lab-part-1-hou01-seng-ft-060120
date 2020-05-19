@@ -12,4 +12,4 @@ def list_dwarves(array)
 end
 
 
-#numbers.each_with_index { |number, index| puts "Number #{number} is on #{index} position" }
+# numbers.each_with_index { |number, index| puts "Number #{number} is on #{index} position" }
